@@ -6,24 +6,24 @@ import Nav from 'react-bootstrap/Nav';
 function Navbar() {
   return (
     <Nav className="transparent-navbar">
-    <Link to="/">
+    <a href="#">
       <h1>Cyrus Arch</h1>
-    </Link>
+    </a>
     <ul>
       <li>
-        <Link to="/">Home</Link>
+        <a href="#">Home</a>
       </li>
       <li>
-        <Link to="/Service">Service</Link>
+        <a href="#services">Service</a>
       </li>
       <li>
-        <Link to="/Works">Works</Link>
+        <a href="#works">Works</a>
       </li>
       <li>
-        <Link to="/Team">Team</Link>
+        <a href="">Team</a>
       </li>
       <li>
-        <Link to="/ContactUs">Contact Us</Link>
+        <a href="">Contact Us</a>
       </li>
     </ul>
   </Nav>

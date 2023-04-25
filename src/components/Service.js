@@ -6,10 +6,10 @@ function Service() {
         <section class="section services-section" id="services">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div >
                 <div class="section-title">
                     <h2>Flexible Features</h2>
-                    <p>I deliver versatile solutions for clients, ensuring dynamic functionality, eco-conscious designs, and seamless integration.</p>
+                    <p>We deliver versatile solutions for clients, ensuring dynamic functionality, eco-conscious designs, and seamless integration.</p>
                 </div>
             </div>
         </div>
@@ -22,7 +22,7 @@ function Service() {
                     </div>
                     <div class="feature-content">
                         <h5>Innovative Spaces</h5>
-                        <p>I devise and form services for clientele of all dimensions, excelling in fashioning chic, up-to-date buildings.</p>
+                        <p>We devise and form services for clientele of all dimensions, excelling in fashioning chic, up-to-date buildings.</p>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@ function Service() {
                     </div>
                     <div class="feature-content">
                         <h5>Elegant Edifices</h5>
-                        <p>I plan and construct assistance for patrons large and small, mastering the art of sleek, fashionable designs.</p>
+                        <p>We plan and construct assistance for patrons large and small, mastering the art of sleek, fashionable designs.</p>
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@ function Service() {
                     </div>
                     <div class="feature-content">
                         <h5>Adaptive Structures</h5>
-                        <p>I plot and establish provisions for customers of all scopes, honing skills in designing chic, current edifices.</p>
+                        <p>We plot and establish provisions for customers of all scopes, honing skills in designing chic, current edifices.</p>
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@ function Service() {
                     </div>
                     <div class="feature-content">
                         <h5>Precision in Planning</h5>
-                        <p>I design and execute offerings for clients varying in size, concentrating on creating refined, modern spaces.</p>
+                        <p>We design and execute offerings for clients varying in size, concentrating on creating refined, modern spaces.</p>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@ function Service() {
                     </div>
                     <div class="feature-content">
                         <h5>Sophisticated Solutions</h5>
-                        <p>I conceive and engineer services for diverse client bases, adept at generating stylish, state-of-the-art facilities.</p>
+                        <p>We conceive and engineer services for diverse client bases, adept at generating stylish, state-of-the-art facilities.</p>
                     </div>
                 </div>
             </div>
@@ -87,7 +87,7 @@ function Service() {
                     </div>
                     <div class="feature-content">
                         <h5>Bold Blueprints</h5>
-                        <p>I craft and shape solutions for clients of any scale, focusing on producing elegant, contemporary structures.</p>
+                        <p>We craft and shape solutions for clients of any scale, focusing on producing elegant, contemporary structures.</p>
                     </div>
                 </div>
             </div>

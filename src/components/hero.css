@@ -1,10 +1,45 @@
-body{
-    background-color: lightgray;
-    
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+body {
+  background-color: lightgray;
+  font-family: 'Architects Daughter', cursive;
 }
-div {
-    margin-top: 3rem;
+.continer{
+    display: flex;
 }
-@media (max-width:1024px){
-    
+.title{
+    margin: 0 0 15px;
+
 }
+.hero {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 15%;
+}
+
+@media only screen and (max-width: 768px) {
+  /* Adjust the margin-top for smaller screens */
+  .hero {
+    margin-top: 13%;
+  }
+  .continer{
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  /* Adjust the margin for smaller screens */
+  .hero {
+    margin-left: 2%;
+    margin-right: 10%;
+    margin-top: 30%;
+  }
+}
+@media only screen and (max-width: 320px) {
+    /* Adjust the margin for smaller screens */
+    .hero {
+      margin-left: 15%;
+      margin-right: 15%;
+      margin-top: 30%;
+    }
+  }

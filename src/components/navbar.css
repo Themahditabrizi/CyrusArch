@@ -1,35 +1,35 @@
 .transparent-navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem 2rem;
-    background-color: transparent;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 1000;
-    margin-top: 0;
-  }
-  
-  .transparent-navbar ul {
-    list-style-type: none;
-    display: flex;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-  }
-  
-  .transparent-navbar li {
-    margin-right: 1.5rem;
-  }
-  
-  .transparent-navbar a {
-    text-decoration: none;
-    color: #000;
-    transition: color 0.3s;
-  }
-  
-  .transparent-navbar a:hover {
-    color: #999;
-  }
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem !important;
+  background-color: #b9b9b9de;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  margin-top: 0;
+}
+
+.transparent-navbar ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.transparent-navbar li {
+  margin-right: 1.5rem;
+}
+
+.transparent-navbar a {
+  text-decoration: none;
+  color: #000;
+  transition: color 0.3s;
+}
+
+.transparent-navbar a:hover {
+  color: #999;
+}
